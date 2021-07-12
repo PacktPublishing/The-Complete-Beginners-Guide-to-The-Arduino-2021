@@ -1,0 +1,19 @@
+Arduino Nano (or clone)
+USB A - USB Mini B Cable
+Pack of Jumper Wires or...
+Set of solid core 22AWG wire and wire cutter
+LEDs - 5mm Red, Green and Yellow. 2 of each colour plus an extra 5 of either Red, Green or Yellow (to make a total of 7 for the dice project)
+Current Limiting Resistors - Get a pack of mixed value resistors, these will come in handy for future projects
+At least 2 x momentary push buttons (the type with 4 bendy legs is best)
+Piezo Disc
+Light Dependant Resistor
+DHT11 Temperature and humidity sensor
+BME280 Temperature and humidity sensor
+16x2 LCD Display (HD44780 controller)
+8x8 LED Dot MAtrix display with MAX7219 chip
+8 Digit 7 Segment Display with MAX7219 chip
+Small analog thumb joystick
+DS3231 RTC Clock Module (Get a quality one from Adafruit or other reputable supplier)
+Micro Servo
+RCW-0001 Micro Ultrasonic Sensor
+uBlock NEO 6M GPS Module
